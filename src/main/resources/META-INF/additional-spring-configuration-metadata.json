@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "user.access.token.ttl",
+      "type": "java.lang.String",
+      "description": "Description for user.access.token.ttl."
+    },
+    {
+      "name": "jwt.user.token.prefix",
+      "type": "java.lang.String",
+      "description": "Description for jwt.user.token.prefix."
+    },
+    {
+      "name": "jwt.user.token.header",
+      "type": "java.lang.String",
+      "description": "Description for jwt.user.token.header."
+    },
+    {
+      "name": "kafka.message.topic.notification.email",
+      "type": "java.lang.String",
+      "description": "Description for kafka.message.topic.notification.email."
+    },
+    {
+      "name": "kafka.message.topic.notification.phone",
+      "type": "java.lang.String",
+      "description": "Description for kafka.message.topic.notification.phone."
+    },
+    {
+      "name": "kafka.message.topic.notification.push",
+      "type": "java.lang.String",
+      "description": "Description for kafka.message.topic.notification.push."
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret."
+    },
+    {
+      "name": "password.reset.token.ttl",
+      "type": "java.lang.String",
+      "description": "Description for password.reset.token.ttl."
+    }
+  ] }
